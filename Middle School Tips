@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ultimate Middle School Survival Guide by Raf</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+      background-color: #f0f8ff;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #2a6ebb;
+    }
+    ul, ol {
+      margin-left: 20px;
+    }
+    a {
+      color: #2a6ebb;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 10px 0;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-style: italic;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ultimate Guide to Surviving Middle School</h1>
+  <p>Hi! I’m Raf, and I made this guide to help YOU have an awesome middle school experience. Ready? Let’s go!</p>
+
+  <h2>Top Study Tips</h2>
+  <ol>
+    <li>Write down all your homework every day.</li>
+    <li>Find a quiet place to study without distractions.</li>
+    <li>Use flashcards to help memorize important info.</li>
+    <li>Take breaks when studying so your brain can rest.</li>
+    <li>Ask your teachers if you don’t understand something.</li>
+  </ol>
+
+  <h2>How to Make Friends</h2>
+  <ul>
+    <li>Be kind and smile — people notice that!</li>
+    <li>Join clubs or teams that interest you.</li>
+    <li>Ask questions and listen to others.</li>
+    <li>Be yourself — that’s the best way to make real friends.</li>
+  </ul>
+
+  <h2>Organizing Homework Like a Pro</h2>
+  <p>Keep a planner or use an app to track assignments and due dates. Break big projects into small steps so they’re less stressful.</p>
+
+  <h2>Dealing with Stress</h2>
+  <p>Take deep breaths, talk to someone you trust, and remember to do things you enjoy to relax.</p>
+
+  <h2>Fun Break Ideas</h2>
+  <ul>
+    <li>Go for a walk outside.</li>
+    <li>Listen to your favorite music.</li>
+    <li>Draw or color something creative.</li>
+  </ul>
+
+  <h2>Must-Have School Supplies</h2>
+  <ul>
+    <li>Good backpack</li>
+    <li>Planner or notebook</li>
+    <li>Colored pens and highlighters</li>
+    <li>Water bottle</li>
+    <li>Headphones for focus</li>
+  </ul>
+
+  <h2>Cool Clubs & Activities to Join</h2>
+  <p>Look for your school’s clubs like drama, art, sports, or robotics — they’re a great way to meet friends and try new things!</p>
+
+  <footer>
+    Made with 💖 By Raf — Good luck with middle school!
+  </footer>
+</body>
+</html>
